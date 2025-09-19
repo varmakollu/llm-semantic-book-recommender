@@ -74,6 +74,7 @@ Users can search for books using natural language queries like "a book about a p
 
 This project is inspired by and built upon recent tutorials and example repos showing how to combine semantic search, zero-shot classification, sentiment analysis, and Gradio apps for book recommendation systems
 
+- https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata
 - https://github.com/afraAntara/Semantic_Book_Recommender
 - https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python
 - https://github.com/t-redactyl/llm-semantic-book-recommender
